@@ -1,19 +1,16 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://pramuka-wiki.netlify.app",
+  "site_title": "Wikipedia Pramuka",
+  "site_description": "Wikipedia semua hal tentang Pramuka yang dibuat oleh anggota dari berbagai satuan.",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "Pramuka",
+    "Gerakan",
+    "Gerakan Pramuka",
+    "Penggalang",
+    "Penegak",
+    "Siaga"
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "-",
+  "github_account": "adnan-zahir"
 }
